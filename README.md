@@ -1,10 +1,10 @@
 # MPD TRACK DATASET 🎵
-Extracted all unique tracks from **Million Playlist Dataset** and added audio features to every track using Spotify API. *(Dataset used in Mrs. Spotify)*
+Extracted all unique tracks from **Million Playlist Dataset** and added audio features to every track using Spotify API.
 
 `Total Unique Songs: 2,261,644`
 
 ## Useage of dataset
-The dataset is in the form of SQL table. You can find the data on kaggle [here](). Use this however you want, We are not responsible for anything done by you.
+The dataset is in the form of SQL table. You can find the data on kaggle [here](https://www.kaggle.com/datasets/krishsharma0413/2-million-songs-from-mpd-with-audio-features/). Use this while respecting Spotify's Policies. We are not responsible for anything done by you using this dataset.
 
 ## Replicate the extraction
 1. Install the Million Playlist Dataset from [here](https://www.kaggle.com/datasets/himanshuwagh/spotify-million).
